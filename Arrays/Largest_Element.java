@@ -3,7 +3,7 @@ package Arrays;
 public class Largest_Element {
     public static void main(String[] args){
 
-        int[] arr = {1,4,3,5,6,7,9};
+        int[] arr = {1,4,3,5,6,7,2};
         System.out.println(maxelement(arr));
 
         
