@@ -59,3 +59,7 @@ public class Second_largest_element {
 
   */     
 }
+
+/*Traverse the array once to find the maximum element.
+Then traverse again to find the largest element that is not equal to the maximum.
+That element is the second largest.*/
